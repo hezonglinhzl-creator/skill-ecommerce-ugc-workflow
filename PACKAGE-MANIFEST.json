@@ -1,0 +1,66 @@
+{
+  "files": 12,
+  "bytes": 33197,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 936,
+      "sha256": "d2612d879196112cf8d9d52fd111f203657a80b98a18a9467bb0bfa5b684e2bb"
+    },
+    {
+      "path": "skill/ecommerce-ugc-workflow/agents/openai.yaml",
+      "bytes": 334,
+      "sha256": "fe518fd48746067c3dc05ba697ec315a52baaf77c0676adddaded8201071fa3b"
+    },
+    {
+      "path": "skill/ecommerce-ugc-workflow/assets/output-template.md",
+      "bytes": 3160,
+      "sha256": "13ae966a6f3fbd4fda14fa925de4c8ee80f2b7020757dbec9bc402ef02cd66ad"
+    },
+    {
+      "path": "skill/ecommerce-ugc-workflow/README_安装与使用.md",
+      "bytes": 866,
+      "sha256": "0c7e20a465f55022571399844fe99fd66b613072354b27111e70d8849e3da816"
+    },
+    {
+      "path": "skill/ecommerce-ugc-workflow/references/emotion-camera-direction.md",
+      "bytes": 4659,
+      "sha256": "b4ba690dd4e5c4ec687def7b42d1f3d58d8bab1060c85b0086aad9c3549126f3"
+    },
+    {
+      "path": "skill/ecommerce-ugc-workflow/references/omni-story-framework.md",
+      "bytes": 2993,
+      "sha256": "5d0fcfb22d0b91759b79a35210d40c338c482b0ad1c36091e4a33d4dd79a7189"
+    },
+    {
+      "path": "skill/ecommerce-ugc-workflow/scripts/validate_prompt.py",
+      "bytes": 5093,
+      "sha256": "8535cec30e4ce5247e35c8798245fd138d616548ea9269d221c116837e55ad28"
+    },
+    {
+      "path": "skill/ecommerce-ugc-workflow/SKILL.md",
+      "bytes": 13783,
+      "sha256": "e4eb04d09268320ae213ca2042352e94c51cb430f0780036567745984baf3346"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
