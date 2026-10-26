@@ -1,6 +1,6 @@
 {
-  "files": 12,
-  "bytes": 33197,
+  "files": 15,
+  "bytes": 43284,
   "entries": [
     {
       "path": ".gitignore",
@@ -13,9 +13,14 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 3450,
+      "sha256": "4a264f2dabea4d5c607babc5728893bfc2986f614944e64b3f3a4b3073b8c5b1"
+    },
+    {
       "path": "README.md",
-      "bytes": 936,
-      "sha256": "d2612d879196112cf8d9d52fd111f203657a80b98a18a9467bb0bfa5b684e2bb"
+      "bytes": 3162,
+      "sha256": "4aeb2cf7e79c78b367820e48cc682e0bcb14d17dd43992e70f397f9d7dc5b0d2"
     },
     {
       "path": "skill/ecommerce-ugc-workflow/agents/openai.yaml",
@@ -26,6 +31,16 @@
       "path": "skill/ecommerce-ugc-workflow/assets/output-template.md",
       "bytes": 3160,
       "sha256": "13ae966a6f3fbd4fda14fa925de4c8ee80f2b7020757dbec9bc402ef02cd66ad"
+    },
+    {
+      "path": "skill/ecommerce-ugc-workflow/README.en.md",
+      "bytes": 2298,
+      "sha256": "ba43b3125e42f9ea970720a13c9477cf112f49aaf6dadd59056648e09e2a9961"
+    },
+    {
+      "path": "skill/ecommerce-ugc-workflow/README.md",
+      "bytes": 2113,
+      "sha256": "2a4e210d8e8702f9353cd09b147b6f198e4daac693278e8ac3cf17482a6c2eda"
     },
     {
       "path": "skill/ecommerce-ugc-workflow/README_安装与使用.md",
