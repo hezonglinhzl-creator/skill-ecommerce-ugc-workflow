@@ -1,26 +1,26 @@
 {
   "files": 15,
-  "bytes": 43284,
+  "bytes": 46573,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 3450,
-      "sha256": "4a264f2dabea4d5c607babc5728893bfc2986f614944e64b3f3a4b3073b8c5b1"
+      "bytes": 3740,
+      "sha256": "fd57328a240f5fae1f855bb5351ceb5ea0e615d6ef523038b2535d555aa0d1b7"
     },
     {
       "path": "README.md",
-      "bytes": 3162,
-      "sha256": "4aeb2cf7e79c78b367820e48cc682e0bcb14d17dd43992e70f397f9d7dc5b0d2"
+      "bytes": 3398,
+      "sha256": "e269361123f122bb9f9457de609f8f0cad6957798d96fdc699e0eebc0574ac28"
     },
     {
       "path": "skill/ecommerce-ugc-workflow/agents/openai.yaml",
@@ -64,8 +64,8 @@
     },
     {
       "path": "skill/ecommerce-ugc-workflow/SKILL.md",
-      "bytes": 13783,
-      "sha256": "e4eb04d09268320ae213ca2042352e94c51cb430f0780036567745984baf3346"
+      "bytes": 14828,
+      "sha256": "ef2a4b6b2bcd0749dbe8b875dacead50f9481a300105178a5d516ea29578d19b"
     },
     {
       "path": "安装Skill.cmd",
